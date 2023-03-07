@@ -1,6 +1,8 @@
 # Laravel Chatbot
 A basic chatbot made with the Laravel framework in one of my classes.
 
+![lara_chat](https://user-images.githubusercontent.com/123499791/223319426-458eab87-58b1-44cf-b4e1-04ddb5829c03.png)
+
 ## How does it work
 - The chatbot returns a response based on the first matching keyword that is found in the message
 - Each conversation is bound to the user that created it
